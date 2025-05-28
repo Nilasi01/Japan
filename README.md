@@ -4,7 +4,7 @@
 # Japan Culture Website 🌸
 This is a simple educational website about Japan, featuring information on its history, culture, geography, and modern life.
 
-📋 Key Features
+##📋 Key Features
 🏯 Home Page: Welcome message with iconic imagery (e.g., cherry blossoms, shrines)
 📚 History Section: Key points from ancient to modern Japanese history
 🎌 Culture Page: Information on traditions, festivals, and food culture
@@ -19,7 +19,7 @@ This is a simple educational website about Japan, featuring information on its h
 -CSS3 (No frameworks)
 -Google Fonts (e.g., "Noto Sans JP", "Philosopher")
 
-📸 Screenshots
+##📸 Screenshots
 Home  -https://github.com/Nilasi01/Japan/blob/main/Home.png
 About -https://github.com/Nilasi01/Japan/blob/main/about.jpg.png   
 
