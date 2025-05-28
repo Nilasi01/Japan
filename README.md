@@ -20,7 +20,7 @@ This is a simple educational website about Japan, featuring information on its h
 -Google Fonts (e.g., "Noto Sans JP", "Philosopher")
 
 📸 Screenshots
-Home page -![Home](https://github.com/user-attachments/assets/5af88036-1973-4208-961f-2915b4d9e10f)
+Home page -https://github.com/Nilasi01/Japan/blob/main/Home.png
 
 
 
