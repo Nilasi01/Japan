@@ -4,7 +4,7 @@
 # Japan Culture Website 🌸
 This is a simple educational website about Japan, featuring information on its history, culture, geography, and modern life.
 
-##📋 Key Features
+## 📋 Key Features
 🏯 Home Page: Welcome message with iconic imagery (e.g., cherry blossoms, shrines)
 📚 History Section: Key points from ancient to modern Japanese history
 🎌 Culture Page: Information on traditions, festivals, and food culture
@@ -14,15 +14,35 @@ This is a simple educational website about Japan, featuring information on its h
 📱 Fully Responsive: Mobile-first design that works on all devices
 🎨 Clean & Minimal Theme: White background with soft accent colors
 
-💻 Built With
+## 💻 Built With
 -HTML5
 -CSS3 (No frameworks)
 -Google Fonts (e.g., "Noto Sans JP", "Philosopher")
 
-##📸 Screenshots
+## 📸 Screenshots
 Home  -https://github.com/Nilasi01/Japan/blob/main/Home.png
 About -https://github.com/Nilasi01/Japan/blob/main/about.jpg.png   
+Japanese -https://github.com/Nilasi01/Japan/blob/main/Jp.png
 
+## 📂 Folder Structure
+nihon-website/
+├── index.html             # ホームページ
+├── history.html           # 日本の歴史
+├── culture.html           # 文化
+├── geography.html         # 地理
+├── language.html          # 言語
+├── contact.html           # お問い合わせフォーム
+├── style.css              # 共通スタイル
+├── images/                # 画像フォルダ
+│   ├── sakura.jpg
+│   ├── samurai.jpg
+│   └── mt_fuji.jpg
+└── README.md              # このドキュメント
+
+## 🚀 How to Run
+-Place the images/ folder in the same directory as your HTML files
+-Open index.html in a web browser
+=Navigate to different pages using the site’s menu links
 
 
 ## Preview
@@ -33,7 +53,7 @@ Created by [G.G.NILASI NUREKA]
 Created by a student developer for learning purpose.
 Feel free to fork, improve, or adapt this site for your own educational projects!
 
-📚 Purpose
+## 📚 Purpose
 This project was created as part of a web development course assignment to demonstrate skills in layout design, responsive styling, and semantic HTML structure without using JavaScript or CSS frameworks.
 
 
