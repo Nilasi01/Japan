@@ -1,4 +1,4 @@
-# Japan
+# Japan Country
 -Japan is an island nation in East Asia, known for its beautiful nature, rich culture, and advanced technology.
 
 # Japan Culture Website 🌸
