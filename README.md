@@ -1,5 +1,5 @@
 # Japan
-日本は、美しい自然、豊かな文化、先進技術を持つ東アジアの島国です。
+-Japan is an island nation in East Asia, known for its beautiful nature, rich culture, and advanced technology.
 
 # Japan Culture Website 🌸
 This is a simple educational website about Japan, featuring information on its history, culture, geography, and modern life.
@@ -53,7 +53,8 @@ Created by [G.G.NILASI NUREKA]
 Created by a student developer for learning purpose.
 Feel free to fork, improve, or adapt this site for your own educational projects!
 
-## 📚 Purpose
-This project was created as part of a web development course assignment to demonstrate skills in layout design, responsive styling, and semantic HTML structure without using JavaScript or CSS frameworks.
+## 🎯 Purpose
+This project was created as an educational tool to share knowledge about Japan and to demonstrate front-end web development skills, especially layout and responsive design, using only semantic HTML and CSS.
+
 
 
