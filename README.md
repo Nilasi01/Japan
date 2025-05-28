@@ -1,5 +1,5 @@
 # Japan Country
--Japan is an Island nation in East Asia, known for its beautiful nature, rich culture, and advanced technology.
+Japan is an Island nation in East Asia, known for its beautiful nature, rich culture, and advanced technology.
 
 # Japan Culture Website 🌸
 This is a simple educational website about Japan, featuring information on its history, culture, geography, and modern life.
