@@ -20,9 +20,12 @@ This is a simple educational website about Japan, featuring information on its h
 -Google Fonts (e.g., "Noto Sans JP", "Philosopher")
 
 ## 📸 Screenshots
-Home  -https://github.com/Nilasi01/Japan/blob/main/Home.png
-About -https://github.com/Nilasi01/Japan/blob/main/about.jpg.png   
-Japanese -https://github.com/Nilasi01/Japan/blob/main/Jp.png
+Home  
+-https://github.com/Nilasi01/Japan/blob/main/Home.png
+About 
+-https://github.com/Nilasi01/Japan/blob/main/about.jpg.png   
+Japanese 
+-https://github.com/Nilasi01/Japan/blob/main/Jp.png
 
 ## 📂 Folder Structure
 nihon-website/
