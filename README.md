@@ -46,7 +46,7 @@ nihon-website/
 
 
 ## Preview
-Visit the live site: [https://yourusername.github.io/japan-website](https://yourusername.github.io/japan-website)
+Visit the live site: https://github.com/Nilasi01
 
 ## 👩‍💻 Author
 Created by [G.G.NILASI NUREKA]
