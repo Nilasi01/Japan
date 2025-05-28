@@ -6,7 +6,7 @@ This is a simple educational website about Japan, featuring information on its h
 
 ## 📋 Key Features
 
-🏯 Home Page: Welcome message with iconic imagery (e.g., cherry blossoms, shrines)
+🏯 Home Page: Welcome message with iconic imagery (e.g., cherry blossoms, shrines) <br>
 📚 History Section: Key points from ancient to modern Japanese history
 🎌 Culture Page: Information on traditions, festivals, and food culture
 🗺️ Geography Page: Overview of major cities and natural landscapes
